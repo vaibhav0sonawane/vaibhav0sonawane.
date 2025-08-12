@@ -1,5 +1,6 @@
-# vaibhav0sonawane.
-# Hi there, I'm Vaibhav 👋  💻 **BCA Student** | **Aspiring Developer**   ⚡ Skilled in **C/C++**, **HTML/CSS**, and **Web Basics**   🚀 Passionate about problem-solving and building real-world projects   📚 Always learning &amp; exploring new technologies  
+# Hi there, I'm Vaibhav 👋
+💻 **BCA Student** | **Aspiring Developer**   ⚡ Skilled in **C/C++**, **HTML/CSS**, and **Web Basics**   🚀 Passionate about problem-solving and building real-world projects  
+📚 Always learning &amp; exploring new technologies  
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
@@ -24,8 +25,9 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/vaibhav-sonawane-07616431b/)](#)
-[![Email](mailto:vaibhav01sonawane@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sonawane-07616431b/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav01sonawane@gmail.com)
+
 
 ---
 
