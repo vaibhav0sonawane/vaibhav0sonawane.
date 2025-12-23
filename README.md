@@ -25,11 +25,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsonawane&layout=compact&theme=tokyonight)
 
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-commit-streak-stats.herokuapp.com/?user=vaibhavsonawane&theme=tokyonight)
 
 ---
 
