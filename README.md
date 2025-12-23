@@ -44,4 +44,4 @@
 
 ## 🌐 Connect With Me
 - 📍 India  
-- 🔗 LinkedIn: https://www.linkedin.com/in/vaibhav-sonawane
+- 🔗 LinkedIn: www.linkedin.com/in/vaibhav-sonawane-07616431b
