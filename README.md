@@ -19,21 +19,24 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📊 GitHub Activity Overview
 
----
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavsonawane&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight)
 
-## 📊 GitHub Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsonawane&show_icons=true&theme=tokyonight)
-
----
-
-## 📁 Repository Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsonawane&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=vaibhavsonawane&theme=tokyonight)
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://github-commit-streak-stats.herokuapp.com/?user=vaibhavsonawane&theme=tokyonight)
+
+---
+
+## 🧱 Contribution Graph
+
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavsonawane&theme=tokyonight)
+
 
 ---
 
