@@ -35,7 +35,7 @@ I am a passionate **BCA (3rd Year)** student focused on building functional, use
 
 ### 🤝 Let's Connect!
 * **LinkedIn:** [vaibhav-sonawane-07616431b](https://www.linkedin.com/in/vaibhav-sonawane-07616431b)
-* **Portfolio:** *Coming Soon / [Link your portfolio here]*
+* **Portfolio:** (https://github.com/vaibhav0sonawane/projects)
 
 ---
 *“Coding is not just about syntax; it’s about solving problems and creating an impact.”*
