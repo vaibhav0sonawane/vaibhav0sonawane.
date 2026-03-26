@@ -1,47 +1,15 @@
-# Hi 👋, I'm Vaibhav Sonawane
+<h1 align="center">Hi 👋, I'm Vaibhav Sonawane</h1>
+<h3 align="center">A passionate frontend developer from Pune(India)</h3>
 
-🎓 BCA Student | Aspiring Software Developer  
-💻 C, C++, Python | Web Development Basics  
-🚀 Quick Learner | Building projects consistently  
+- 👨‍💻 All of my projects are available at [https://github.com/vaibhav0sonawane/projects/tree/main](https://github.com/vaibhav0sonawane/projects/tree/main)
 
----
+- 📫 How to reach me **vaibhav01sonawane@gmail.com**
 
-## 🧑‍💻 About Me
-- Passionate about coding and problem-solving  
-- Interested in Software Development & Web Technologies  
-- Actively improving through projects and practice  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/vaibhav-sonawane-07616431b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhav-sonawane-07616431b" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-## 📊 GitHub Activity Overview
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavsonawane&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsonawane&layout=compact&theme=tokyonight)
-
-
----
-
-## 🧱 Contribution Graph
-
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavsonawane&theme=tokyonight)
-
-
----
-
-## 📌 Highlighted Repositories
-- 🔹 **C Programs** – Basics to intermediate C concepts  
-- 🔹 **Web Development** – HTML & CSS practice projects  
-- 🔹 **Python Projects** – Beginner-friendly Python programs  
-
----
-
-## 🌐 Connect With Me
-- 📍 India  
-- 🔗 LinkedIn: www.linkedin.com/in/vaibhav-sonawane-07616431b
