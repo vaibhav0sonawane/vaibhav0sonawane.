@@ -29,7 +29,6 @@ I am a passionate **BCA (3rd Year)** student focused on building functional, use
 ---
 
 ### 📊 GitHub Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav0sonawane&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav0sonawane&layout=compact&theme=radical)
 
 ---
